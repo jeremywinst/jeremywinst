@@ -15,7 +15,7 @@
 📧 You can contact me through jeremywinston01@gmail.com </br>
 🤝 And making connections on [Linkedin](https://www.linkedin.com/in/jeremy-winston/)
 
-## Programing Language and Framework 🖥️
+## Skills 🧰
 - Python
 - Pytorch
 - TensorFlow
@@ -23,6 +23,7 @@
 - C
 - C++
 - Robot Operating System (ROS)
+- PCB design (Proteus and EAGLE)
 - PLC Programming
 - MQTT
 - My-SQL
