@@ -23,9 +23,11 @@
 - C
 - C++
 - Robot Operating System (ROS)
-- PCB design (Proteus and EAGLE)
-- PLC Programming
 - MQTT
+- PCB design (Proteus and EAGLE)
+- SOLIDWORKS
+- PLC Programming
+- Android Studio
 - My-SQL
 
 ## Research Area 🔬
@@ -45,6 +47,6 @@ A robot developed by Petra Christian University as a contribution to help hospit
 An Android and Desktop application designed to help parent monitor and limit their children's gaming activity. This app is composed of an Android app, Desktop app, Server, and database system.
 
 ### 4. Non-open source project
-Check out my [Linkedin](https://www.linkedin.com/in/jeremy-winston/) profile for more fantastic projects I've been involved in, including
+Check out my [LinkedIn](https://www.linkedin.com/in/jeremy-winston/) profile for more fantastic projects I've been involved in, including
 - Hexapod Fire Fighter Robot
 - Smart Compost bin (SCOMBI)
