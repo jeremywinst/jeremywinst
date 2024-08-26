@@ -5,7 +5,7 @@
 
 👀 I am interested in **computer vision / mobile robot / industrial automation / IoT devices.** <br>
 
-💼 I have 2 years of experience as a **research assistant** specializing in computer vision.
+💼 I have 2.5 years of combined experience as a **research assistant** and **embedded systems software developer**.
 
 🧰 I also have a track record in designing **mobile robots and IoT projects** in several competitions.
 
@@ -19,16 +19,20 @@
 - Python
 - Pytorch
 - TensorFlow
-- Java
-- C
 - C++
+- C#
+- Windows Forms
 - Robot Operating System (ROS)
 - MQTT
+- My-SQL
+- Java
+- Android Studio
 - PCB design (Proteus and EAGLE)
 - SOLIDWORKS
 - PLC Programming
-- Android Studio
-- My-SQL
+- Git
+- Docker
+
 
 ## Research Area 🔬
 - Deep Metric Learning (Person Re-identification and Image Retrieval)
@@ -38,15 +42,18 @@
 
 ## Recent Project 🤖
 ### 1. Play Atari game with Deep Q-Network (DQN) [[link]](https://github.com/jeremywinst/kungfu_NES_dqn)
-Training a reinforcement learning agent to play a classic Atari game based solely on raw pixel data. Base on OpenAi Gym Retro with a focus on the Implementation of Deep Q-Network (DQN).
+Training a reinforcement learning agent to play a classic Atari game based solely on raw pixel data. Base on OpenAI Gym Retro with a focus on the Implementation of Deep Q-Network (DQN).
 
 ### 2. Support for Pandemic and Epidemic Robot (SPERO) [[Link]](https://github.com/jeremywinst/spero)
 A robot developed by Petra Christian University as a contribution to help hospitals fight COVID-19. The robot's objective is to deliver food and medicine to a patient and disinfect the room automatically. The robot is based on ROS and Raspberry Pi with IoT capability.
 
 ### 3. Application Monitoring System (AMS) [[link]](https://github.com/jeremywinst/ams)
-An Android and Desktop application designed to help parent monitor and limit their children's gaming activity. This app is composed of an Android app, Desktop app, Server, and database system.
+An Android and Desktop application designed to help parent monitor and limit their children's gaming activity. This app comprises of an Android app, Desktop app, Server, and database system.
 
-### 4. Non-open source project
+### 4. Pick and Place Machine Sample Code [[link]](https://github.com/jeremywinst/practice_fullstack_WMX)
+A sample code for motion control and user interface of a pick and place machine, utilizing the WMX motion control library within a Windows Forms application.
+
+### 5. Non-open source project
 Check out my [LinkedIn](https://www.linkedin.com/in/jeremy-winston/) profile for more fantastic projects I've been involved in, including
 - Hexapod Fire Fighter Robot
 - Smart Compost bin (SCOMBI)
