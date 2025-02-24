@@ -5,11 +5,11 @@
 
 👀 I am interested in **computer vision / mobile robot / industrial automation / IoT devices.** <br>
 
-💼 I have 2.5 years of combined experience as a **research assistant** and **embedded systems software developer**.
+💼 I have 2.5 years of combined experience as a **AI researcher** and **software developer**.
 
 🧰 I also have a track record in designing **mobile robots and IoT projects** in several competitions.
 
-💪 I love learning new technologies and challenging myself. I also have an interest in sports and photography too.
+💪 I love learning new technologies and challenging myself. I also have an interest in sports and photography.
 
 ## Get in touch :mailbox:
 📧 You can contact me through jeremywinston01@gmail.com </br>
